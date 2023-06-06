@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "ARG"
+      },
+      "geometry": {
+        "coordinates": [
+          -64.2091582718252,
+          -34.07151845406058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "BRA"
+      },
+      "geometry": {
+        "coordinates": [
+          -52.06903034326305,
+          -9.431004198241297
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
